@@ -24,8 +24,13 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone <repository-url>
+
+2.   ```bash
+   cd <project-directory>
+   
 2. cd <project-directory>
-3. 3 chmod +x install.sh
+
+3.  chmod +x install.sh
 ./install.sh
 
 The Vue.js frontend shoule  be available at http://localhost:8080, and the Laravel backend will be accessible at http://localhost:8000.
